@@ -46,7 +46,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://open.spotify.com/track/6zvqq50PL7io0rprbkrYc9"><img src="https://status.nmoo.dev/top-tracks?i=1](https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81)" width="540" height="64"></a></td>
+      <td><a href="https://open.spotify.com/track/6zvqq50PL7io0rprbkrYc9"><img src="https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81" width="540" height="64"></a></td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
