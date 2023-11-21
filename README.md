@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**Bodan07/Bodan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello There <coders/>!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+#  I'm Kamil! 👋
+
+
+## 🚀 About Me
+👋 Hi there! I'm Kamil, a computer science student from Telkom University in Bandung, Indonesia.
+
+🎮 Outside the world of coding, you can often find me immersed in the world of games, where I love to explore virtual realms and conquer challenges.
+
+🎧 When not coding or gaming, I unwind by listening to music. Whether it's a coding session playlist or a chill-out mix, music is the soundtrack to my coding adventures.
+
+🌐 Currently honing my skills in software development, I enjoy tackling challenges and turning ideas into functional code.
+
+📚 Always eager to learn and explore new technologies, I'm on a journey to expand my knowledge and contribute to the world of open source.
+
+🔧 Let's connect and collaborate! Feel free to explore my repositories and join me on this coding and gaming adventure. 🚀
+
+## 🛠 Skills
+
+🚀 I'm passionate about coding and have dived into a variety of languages, including Python, Java, C++, Golang, C, Flutter Dart, and HTML.
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-najmi-kamil-a1b233232/)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/najmikml_/)
+[![Spotify](https://img.shields.io/badge/spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/aqofyi8vsxth4ia8i8rvijdp3)
+[![Steam](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kdknyokkmhnhnn/)
+
+
