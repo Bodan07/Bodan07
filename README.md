@@ -32,4 +32,29 @@
 [![Spotify](https://img.shields.io/badge/spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/aqofyi8vsxth4ia8i8rvijdp3)
 [![Steam](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kdknyokkmhnhnn/)
 
+## Related
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
 
+
+<table>
+  <thead>
+    <tr>
+      <th>📈 Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://open.spotify.com/track/6zvqq50PL7io0rprbkrYc9"><img src="https://status.nmoo.dev/top-tracks?i=1](https://i.scdn.co/image/ab67616d00001e0253f6fa0d2589c6a7174f4b81)" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>
