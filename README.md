@@ -1,7 +1,7 @@
 
 # Hello There <coders/>!
-![download](https://github.com/Bodan07/Bodan07/assets/88619392/3ebb5d22-0aa8-45ac-97f5-9f1e1a40923a)
 
+![giphy (1)](https://github.com/Bodan07/Bodan07/assets/88619392/78b03f5f-dab7-4a2a-9b33-4876a6505f90)
 
 
 
@@ -31,3 +31,5 @@
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/najmikml_/)
 [![Spotify](https://img.shields.io/badge/spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/aqofyi8vsxth4ia8i8rvijdp3)
 [![Steam](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kdknyokkmhnhnn/)
+
+![download](https://github.com/Bodan07/Bodan07/assets/88619392/3ebb5d22-0aa8-45ac-97f5-9f1e1a40923a)
