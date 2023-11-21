@@ -9,7 +9,7 @@
 
 
 ## 🚀 About Me
-👋 Hi there! I'm Kamil, a computer science student from Telkom University in Bandung, Indonesia.
+👋 Hi there! I'm Kamil, also known as Bodan, a computer science student from Telkom University in Bandung, Indonesia.
 
 🎮 Outside the world of coding, you can often find me immersed in the world of games, where I love to explore virtual realms and conquer challenges.
 
